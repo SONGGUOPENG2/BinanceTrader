@@ -1,4 +1,11 @@
 # 币安策略仪
+本软件在线下载：
+https://github.com/SONGGUOPENG2/BinanceTrader/releases
+API密钥的安全取决于在交易所的设置而不是本软件设置。
+在线查看视频讲解：
+https://drive.google.com/drive/folders/1-U6_ffZ4i8PPCZ-Y5UX7PsBTKY0XzlGY
+请在微软Skype与我对话或通话：
+https://join.skype.com/invite/vMnpR1gq7giA
 # -本软件你可以避免熬夜：
 因为美国股市交易员不可避免在欧洲美洲白天进行交易，那边是白天，我们这边却是凌晨。 
 # -本软件可以提高成功率：
